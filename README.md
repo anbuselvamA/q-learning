@@ -14,7 +14,7 @@ Develop a Python program to derive the optimal policy using Q-Learning and compa
 → Compare Q-Learning policy and state values with Monte Carlo results for the given RL environment.<br>
 
 ## Q LEARNING FUNCTION
-#### Name: A.ANBUSELVAM
+#### Name: ANBUSELVAM A
 #### Register Number: 212222240009
 ```python
 def q_learning(env,
